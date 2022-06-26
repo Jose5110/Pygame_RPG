@@ -5,6 +5,8 @@ This game was made following the tutorial provided by the
 the youtube ClearCode in the following link:
 --https://www.youtube.com/watch?v=QU1pPzEGrqw--
 
+Only python default libraries with the obvius exception been pygame were used on this proyect, so i wont be bothering with a virtual enviroment nor with a requierements file.
+
 All credits goes to him for the awesome tutorial, but that
 does not mean that this version is entirely a copy of his,
 in the original, assets routes where implemented using a simple file route to the asset, in this one i use the join method from the "os" library so it works in any os (as opposed to only mac).
