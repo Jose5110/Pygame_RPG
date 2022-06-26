@@ -1,0 +1,1 @@
+Assets folder goes in the main folder of the game.
